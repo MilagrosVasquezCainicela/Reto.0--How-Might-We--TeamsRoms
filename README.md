@@ -69,9 +69,17 @@ En nuestro primer testeo con el usuario, le presentamos 3 propuestas para ver la
 En el segundo testeo, nos centramos en el nombre del chat bot, lo cual mencionaron que deseaban que les sea familiar, asimismo les agrado el nuevo prototipo. 
 
 ## 4. Planificación del trabajo 
+![](Imágenes/planner.PNG) 
+Gráfico N°5:  Planificación de equipo
+Fuente: Elaboración propia
+
+![](Imágenes/Plannertrello.PNG) 
+Gráfico N°6:  Planificación de equipo
+Fuente: Elaboración propia
 ## 5. Arquetipo 
 ![](Imágenes/ARQUETIPO-YENNY.PNG)
-
+Gráfico N°7:  Arquetipo 
+Fuente: Elaboración propia
 ## 6. Objetivo
 6.1. Objetivo General:     
 Contribuir a la comprensión de las tic´s y con esta la reinvención de los docentes de la generación X.                   
