@@ -33,12 +33,12 @@ El presente proyecto ha sido totalmente desafiante, ya que en una semana se ha i
 El equipo ha diseñado el prototipo de alta fidelidad en figma, la propuesta de valor es diseñar un chat bot  que  facilite el aprendizaje del uso de las tic´s de forma sencilla y divertida asimismo planteamos el desarrollo de una comunidad de docentes en donde ellos puedan interactuar y ayudarse mutuamente en el proceso. 
 La importancia del proyecto se fundamenta en que los chatbots se convierten en la solución más innovadora para cerrar la brecha entre la tecnología y la educación. La implicación de chatbots crea una experiencia de aprendizaje interactiva para el usuario, una similar a estar frente a un instructor. Los chatbots son capaces de adaptarse a la velocidad a la que cada individuo se sienta cómodo, sin ser demasiado insistente y abrumador de esta manera contribuimos a disminuir los múltiples insight emocionales de nuestros usuarios. 
 
-## 2. How Might We 
+## 2. How Might We? How Might We
 ¿Cómo podríamos rediseñar la experiencia educativa remota para los docentes de la generación X para que se adapten de manera rápida y sencilla a las tic´s? 
 ## 3. Metodología de trabajo
 *  3.1) Design Thinking 
 Usamos la metodología de Design Thinking o Pensamiento de Diseño, la cual nos permite involucrar el accionar creativo para conocer a nuestro usuario y entenderlo en su entorno real, para brindarle un producto centrado en satisfacer su necesidad.
-![](Imágenes/DT.png) 
+![](Imágenes/DT.png)                                              
 Gráfico N°1:  Design thinking
 *   3.1.1. Empatizar
 ![](Imágenes/MP.PNG)
@@ -51,7 +51,7 @@ Para poder definir nuestra problemática evaluamos la data existente y mediante 
 ¿Cómo podríamos rediseñar la experiencia educativa remota para los docentes de la generación X para que se adapten de manera rápida y sencilla a las tic´s?
 *   3.1.2.2.  Elaboración de la entrevista 
 Se elaboraron 8 preguntas; 4 de forma general y 4 más centralizada en descubrir las emociones del usuario, las entrevistas se dieron de forma presencial (familiares docentes) y virtual. El total de entrevistados ha sido de 6 personas. 
-![](Imágenes/TablaDocentes.PNG)
+![](Imágenes/TablaDocentes.PNG)                                   
 Gráfico N°3:  TablaDocentes
 Fuente: Elaboración propia
 *   3.1.3. Idear
@@ -73,7 +73,7 @@ En el segundo testeo, nos centramos en el nombre del chat bot, lo cual mencionar
 
 ## 6. Objetivo
 6.1. Objetivo General:     
-Contribuir a la comprensión de las tic´s y con esta la reinvención de los docentes de la generación X.
+Contribuir a la comprensión de las tic´s y con esta la reinvención de los docentes de la generación X.                   
 6.2. Objetivo Específicos:            
 •	Mejorar la experiencia de los docentes en brindar clases remotas y hacerlo amigable y sencillo.
 •	Contribuir con atenuar la brecha digital generacional. 
