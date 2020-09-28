@@ -51,8 +51,9 @@ Para poder definir nuestra problemática evaluamos la data existente y mediante 
 ¿Cómo podríamos rediseñar la experiencia educativa remota para los docentes de la generación X para que se adapten de manera rápida y sencilla a las tic´s?
 *   3.1.2.2.  Elaboración de la entrevista 
 Se elaboraron 8 preguntas; 4 de forma general y 4 más centralizada en descubrir las emociones del usuario, las entrevistas se dieron de forma presencial (familiares docentes) y virtual. El total de entrevistados ha sido de 6 personas.                                                          
-![](Imágenes/TablaDocentes.PNG)                                   
-Gráfico N°3:  TablaDocentes
+![](Imágenes/TablaDocentes.PNG)                   
+                
+   Gráfico N°3:  TablaDocentes
 Fuente: Elaboración propia
 *   3.1.3. Idear
     ![](Imágenes/IDEACIÓN.PNG)
