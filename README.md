@@ -28,13 +28,13 @@ Primer reto de equipo sobre el rediseño de la experiencia educativa remota en e
 ***
 ## 1. Resumen Ejecutivo	
 
-El presente proyecto ha sido totalmente desafiante, ya que en una semana se ha investigado conceptos nunca antes vistos, asimismo la experiencia de trabajar con usuarios directos ha sido retadora y motivadora. La metodología empleada es Design Thinking con la cual, empatizamos con el docente, después de un largo research, el equipo decidió enfocarse en resolver la brecha generacional del nuevo sistema educativo remoto, ya que es la médula espinal del sistema educativo peruano son los docentes y ellos han sido fuertemente desafiados por esta nueva normalidad de la covianidad. Según INEI, el 90.2% de un aproximado de 600 mil docentes son mayores de 30 años.  Por ello nuestro proyecto se centra a resolver; ¿Cómo podríamos rediseñar la experiencia educativa remota para los docentes de la generación X , para que se adapten de manera rápida y sencilla a las tic´s?. 
+El presente proyecto ha sido totalmente desafiante, ya que en una semana se ha investigado conceptos nunca antes vistos, asimismo la experiencia de trabajar con usuarios directos ha sido retadora y motivadora. La metodología empleada es Design Thinking con la cual, empatizamos con el docente, después de un largo research, el equipo decidió enfocarse en resolver la brecha generacional del nuevo sistema educativo remoto, ya que es la médula espinal del sistema educativo peruano son los docentes y ellos han sido fuertemente desafiados por esta nueva normalidad de la covianidad. Según INEI, el 90.2% de un aproximado de 600 mil docentes son mayores de 30 años.  Por ello nuestro proyecto se centra a resolver; ¿Cómo podríamos rediseñar la experiencia educativa remota para los docentes de la generación X,para que se adapten de manera rápida y sencilla a las tic's ?. 
 
-El equipo ha diseñado el prototipo de alta fidelidad en figma, la propuesta de valor es diseñar un chat bot  que  facilite el aprendizaje del uso de las tic´s de forma sencilla y divertida asimismo planteamos el desarrollo de una comunidad de docentes en donde ellos puedan interactuar y ayudarse mutuamente en el proceso. 
+El equipo ha diseñado el prototipo de alta fidelidad en figma, la propuesta de valor es diseñar un chat bot  que  facilite el aprendizaje del uso de las tic's de forma sencilla y divertida asimismo planteamos el desarrollo de una comunidad de docentes en donde ellos puedan interactuar y ayudarse mutuamente en el proceso. 
 La importancia del proyecto se fundamenta en que los chatbots se convierten en la solución más innovadora para cerrar la brecha entre la tecnología y la educación. La implicación de chatbots crea una experiencia de aprendizaje interactiva para el usuario, una similar a estar frente a un instructor. Los chatbots son capaces de adaptarse a la velocidad a la que cada individuo se sienta cómodo, sin ser demasiado insistente y abrumador de esta manera contribuimos a disminuir los múltiples insight emocionales de nuestros usuarios. 
 
 ## 2. How Might We? 
-¿Cómo podríamos rediseñar la experiencia educativa remota para los docentes de la generación X para que se adapten de manera rápida y sencilla a las tic´s? 
+¿Cómo podríamos rediseñar la experiencia educativa remota para los docentes de la generación X para que se adapten de manera rápida y sencilla a las tic's? 
 ## 3. Metodología de trabajo
 *  3.1) Design Thinking 
 Usamos la metodología de Design Thinking o Pensamiento de Diseño, la cual nos permite involucrar el accionar creativo para conocer a nuestro usuario y entenderlo en su entorno real, para brindarle un producto centrado en satisfacer su necesidad.
@@ -50,7 +50,7 @@ Para poder definir nuestra problemática evaluamos la data existente y mediante 
 *   3.1.2.1.  How Might We 
 ¿Cómo podríamos rediseñar la experiencia educativa remota para los docentes de la generación X para que se adapten de manera rápida y sencilla a las tic´s?
 *   3.1.2.2.  Elaboración de la entrevista 
-Se elaboraron 8 preguntas; 4 de forma general y 4 más centralizada en descubrir las emociones del usuario, las entrevistas se dieron de forma presencial (familiares docentes) y virtual. El total de entrevistados ha sido de 6 personas. 
+Se elaboraron 8 preguntas; 4 de forma general y 4 más centralizada en descubrir las emociones del usuario, las entrevistas se dieron de forma presencial (familiares docentes) y virtual. El total de entrevistados ha sido de 6 personas.                                                          
 ![](Imágenes/TablaDocentes.PNG)                                   
 Gráfico N°3:  TablaDocentes
 Fuente: Elaboración propia
